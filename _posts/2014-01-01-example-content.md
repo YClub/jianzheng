@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-categories: [测试]
+categories: [测试>ceshi]
 ---
 
 
