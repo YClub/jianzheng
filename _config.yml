@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /:categories/:title.html
+permalink:           :categories/:title.html
 relative_permalinks: true
 
 # Setup
@@ -9,7 +9,7 @@ title:               简媜
 tagline:             '四月裂帛'
 description:         '发发文章写写字'
 url:                 http://jianzheng.yidie.org/
-baseurl:             'http://jianzheng.yidie.org/'
+baseurl:             'http://jianzheng.yidie.org'
 paginate:            5
 
 # About/contact
