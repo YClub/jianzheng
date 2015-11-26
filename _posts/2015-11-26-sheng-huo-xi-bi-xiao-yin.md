@@ -16,8 +16,8 @@ categories: [水问,水经]
 
 于是，处处美丽。
 
-[小红虫——生活细笔之一](2015-11-26-xiao-hong-chong.md)  
-[踏一回月——生活细笔之二](2015-11-26-ta-yi-hui-yue.md)  
-[夜的独白——生活细笔之三](2015-11-26-ye-de-du-bai.md)  
-[两朵童稚——生活细笔之四](2015-11-26-liang-duo-tong-zhi.md)  
-[我来酿——生活细笔之五](2015-11-26-wo-lai-niang.md)
+[小红虫——生活细笔之一](http://jianzheng.yidie.org/水问/水经/2015-11-26-xiao-hong-chong.md)  
+[踏一回月——生活细笔之二](http://jianzheng.yidie.org/水问/水经/2015-11-26-ta-yi-hui-yue.md)  
+[夜的独白——生活细笔之三](http://jianzheng.yidie.org/水问/水经/2015-11-26-ye-de-du-bai.md)  
+[两朵童稚——生活细笔之四](http://jianzheng.yidie.org/水问/水经/2015-11-26-liang-duo-tong-zhi.md)  
+[我来酿——生活细笔之五](http://jianzheng.yidie.org/水问/水经/2015-11-26-wo-lai-niang.md)
