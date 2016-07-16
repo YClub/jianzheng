@@ -21,3 +21,8 @@ author:
 
 # Custom vars
 version:             22
+
+# Feed
+name: "简媜"
+description: "简媜文章"
+url: "http://jianzheng.yidie.org/"
